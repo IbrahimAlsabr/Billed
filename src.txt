@@ -1,0 +1,16 @@
+https://github.com/OpenClassrooms-Student-Center/Billed-app-FR-Front
+
+https://github.com/OpenClassrooms-Student-Center/Billed-app-FR-back?tab=readme-ov-file
+
+https://course.oc-static.com/projects/DA+JSR_P9/Billed+-+Description+pratique+des+besoins+-.pdf
+
+https://openclassrooms.notion.site/a7a612fc166747e78d95aa38106a55ec?v=2a8d3553379c4366b6f66490ab8f0b90
+
+
+administrateur :
+utilisateur : admin@test.tld 
+mot de passe : admin
+
+employé :
+utilisateur : employee@test.tld
+mot de passe : employee
